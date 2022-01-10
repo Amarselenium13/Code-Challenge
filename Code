@@ -1,0 +1,27 @@
+
+
+1.
+
+Define 5 variables A, AT, X, XT, NUM
+NUM=0, AT=A, XT=X
+While(){
+    A=AT+NUM, X=(NUM+1) x XT
+    For(i=1;Axi<=X;i++){
+     Print Axi
+ }
+NUM++
+}
+
+
+2.
+
+Define 5 variables A, AT, X, XT, NUM
+Set A=7, X=100
+NUM=0, AT=A, XT=X
+For(j=0;j<2;j++){
+  A=AT+NUM, X=(NUM+1) x XT
+  For(i=1;Axi<=X;i++){
+   Print Axi
+   }
+NUM++
+}
