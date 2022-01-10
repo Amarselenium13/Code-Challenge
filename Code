@@ -25,3 +25,5 @@ For(j=0;j<2;j++){
    }
 NUM++
 }
+
+Added j for more clarity ----- j<2 it do 2 times.
